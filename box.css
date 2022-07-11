@@ -1,0 +1,42 @@
+.box-div {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    
+}
+
+.box-container {
+    display: flex;
+    border: 1px solid black;
+    border-radius: 1em 1em 1em 1em;
+    height: 300px;
+    width: 800px;
+}
+
+.box-container-left {
+    width: 50%;
+    height: 100%;
+    border-right: 1px solid black;
+}
+
+.box-container-mid {
+    width: 20%;
+    height: 100%;
+    border-right: 1px solid black;
+}
+
+.box-container-right {
+    width: 30%;
+    height: 100%;
+}
+
+.box-container-right-top {
+    width: 100%;
+    height: 50%;
+    border-bottom: 1px solid black;
+}
+
+.box-container-right-bot {
+    width: 100%;
+    height: 50%;
+}
