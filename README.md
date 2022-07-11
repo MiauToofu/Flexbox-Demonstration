@@ -1,2 +1,2 @@
 # Flexbox-Demonstration
- Demonstration of a css flexbox i made
+ Demonstration of a css flexbox I made
